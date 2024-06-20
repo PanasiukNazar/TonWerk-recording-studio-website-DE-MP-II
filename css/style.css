@@ -2793,6 +2793,11 @@ img.testimonial-thumb {
     margin-left: -25px;
 }
 
+#page-slider .slick-list,
+.slick-track {
+    height: 100%;
+}
+
 .team-slide .carousel-control {
     position: absolute;
     bottom: 0;
